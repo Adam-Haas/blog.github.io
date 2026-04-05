@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title></title>
+    <link>https://adamhaas.co.uk/</link>
+    <description>Recent content on </description>
+    <image>
+      <title></title>
+      <url>https://adamhaas.co.uk/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://adamhaas.co.uk/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 05 Apr 2026 16:53:51 +0100</lastBuildDate>
+    <atom:link href="https://adamhaas.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello, World!</title>
+      <link>https://adamhaas.co.uk/posts/hello_world/</link>
+      <pubDate>Sun, 05 Apr 2026 16:53:51 +0100</pubDate>
+      <guid>https://adamhaas.co.uk/posts/hello_world/</guid>
+      <description>&lt;p&gt;Hello world 👋&lt;/p&gt;
+&lt;p&gt;My name is Adam Haas - welcome to my blog.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m a Senior Backend Software Engineer, and I&amp;rsquo;ve been writing software professionally since 2018. Outside of work, I&amp;rsquo;ve been going through something of a personal reinvention since November 2024 (more on that in future posts).&lt;/p&gt;
+&lt;p&gt;Lately I&amp;rsquo;ve found myself drawn to bigger questions than the ones I solve at work. What does it actually mean to live? Is social media quietly eroding our ability to think, feel, and connect? Do we need to do hard things to feel anything at all?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
