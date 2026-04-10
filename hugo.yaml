@@ -61,7 +61,7 @@ params:
     subtitle: |
       (Yet Another Blog)
 
-    imageUrl: "me.JPEG"
+    imageUrl: "me.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: Me
